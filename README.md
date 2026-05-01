@@ -26,7 +26,5 @@ Right now, I’m improving my skills in **JavaScript, Python, and APIs**. I enjo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amethystakira&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=amethystakira&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
