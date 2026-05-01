@@ -20,11 +20,9 @@ Right now, I’m improving my skills in **JavaScript, Python, and APIs**. I enjo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amethystakira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amethystakira&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
